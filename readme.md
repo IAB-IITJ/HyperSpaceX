@@ -1,1 +1,2 @@
-HyperSpaceX: Radial and Angular Exploration of HyperSpherical Dimensions
+**HyperSpaceX: Radial and Angular Exploration of HyperSpherical Dimensions
+**
