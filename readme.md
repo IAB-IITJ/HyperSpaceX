@@ -7,4 +7,4 @@ Deep models are traditionally trained using softmax-based activation frameworks,
 
 Training Phase             |  Evaluation Phase
 :-------------------------:|:-------------------------:
-![](https://github.com/MuskanDosi12/HyperSpaceX/blob/main/HyperSpaceXFrameworkVisualAbstract.jpg) |  ![](https://github.com/MuskanDosi12/HyperSpaceX/blob/main/HyperSpaceXFrameworkVisualAbstract.jpg)
+![](https://github.com/MuskanDosi12/HyperSpaceX/blob/main/train.gif) |  ![](https://github.com/MuskanDosi12/HyperSpaceX/blob/main/eval.gif)
